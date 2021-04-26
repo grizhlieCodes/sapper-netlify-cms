@@ -6,4 +6,4 @@ Some text.
 
 \#
 
-![](/uploads/dsc_0052.jpg)
+![]()
